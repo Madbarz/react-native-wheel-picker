@@ -13,7 +13,7 @@
   "keywords": [
     "react-native",
     "picker",
-	"wheel"
+    "wheel"
   ],
   "author": "Yu Zheng",
   "license": "ISC",
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lesliesam/react-native-wheel-picker#readme",
   "dependencies": {
-    "react-native-community/react-native-picker": "1.6.6"
+    "@react-native-community/picker": "1.6.6"
   }
 }
